@@ -1,0 +1,6 @@
+1.pycharm创建虚拟环境
+2.安装需要的包
+3.打包E:\shizhan\exe\venv\Scripts\Pyinstaller -F risk.py 
+
+E:\shizhan\exe\venv\Scripts\Pyinstaller -F -w -i chengzi.ico risk.py
+图片转成ico格式：https://app.xunjiepdf.com/img2icon/
